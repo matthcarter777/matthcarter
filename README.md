@@ -14,4 +14,4 @@ Sou Full FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games COD, GTA e seriados no Netflix e debater sobre cinema.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MateusHenrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-henrique-silva-483071185/)](https://www.linkedin.com/in/mateus-henrique-silva-483071185/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mateushbsb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateushbsb@gmail.com)](mailto:mateushbsb@gmail.com)
